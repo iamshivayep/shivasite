@@ -1,5 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Roboto:ital,wght@0,100;0,300;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto+Flex:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Indie+Flower&family=Oxygen&family=Roboto:ital,wght@0,100;0,300;1,300&display=swap');
+
 body {
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Cabin', sans-serif;
     font-size: medium;
+
 }
